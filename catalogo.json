@@ -69,6 +69,9 @@
       "tmdb_id": 10757,
       "url": "https://dn710100.ca.archive.org/0/items/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg/Kabhi%20Khushi%20Kabhie%20Gham%20720P%20BDRip%20xRG.mp4",
       "poster": "https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg"
+      "subtitles": [
+        { "label": "Español", "lang": "es", "url": "https://raw.githubusercontent.com/dania123456789123456-del/mis-subtitulos/refs/heads/main/sub.vtt" }
+      ]
     }
   ],
   

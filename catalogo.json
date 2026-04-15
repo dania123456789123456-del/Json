@@ -2,11 +2,76 @@
   "movies": [
     {
       "id": "m1",
-      "title": "Who Am I: No System Is Safe",
+      "title": "Who Am I Ningún sistema es seguro",
       "tmdb_id": 284427,
-      "url": "https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0"
+      "url": "https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg"
+    },
+    {
+      "id": "m2",
+      "title": "El gato con botas",
+      "tmdb_id": 417859,
+      "url": "https://rumble.com/hls-vod/75g9x6/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg"
+    },
+    {
+      "id": "m3",
+      "title": "Gregorio",
+      "tmdb_id": 288594,
+      "url": "https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg"
+    },
+    {
+      "id": "m4",
+      "title": "Spirit El corcel indomable",
+      "tmdb_id": 9023,
+      "url": "https://rumble.com/hls-vod/75g948/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg"
+    },
+    {
+      "id": "m5",
+      "title": "Terrifier",
+      "tmdb_id": 86328,
+      "url": "https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg"
+    },
+    {
+      "id": "m6",
+      "title": "Avatar",
+      "tmdb_id": 19995,
+      "url": "https://rumble.com/hls-vod/73ddjg/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg"
+    },
+    {
+      "id": "m7",
+      "title": "Avatar El sentido del agua",
+      "tmdb_id": 76600,
+      "url": "https://rumble.com/hls-vod/73d0ak/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg"
+    },
+    {
+      "id": "m8",
+      "title": "Avatar Fuego y ceniza",
+      "tmdb_id": 83533,
+      "url": "https://ia600103.us.archive.org/18/items/video-prueba-2/video%20Prueba%202.mp4",
+      "poster": "https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg"
+    },
+    {
+      "id": "m9",
+      "title": "Sputnik",
+      "tmdb_id": 594718,
+      "url": "https://ia802803.us.archive.org/27/items/sputnik-1080p-dual-7.99-gb/alienigena.mp4",
+      "poster": "https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg"
+    },
+    {
+      "id": "m10",
+      "title": "Kabhi Khushi Kabhie Gham",
+      "tmdb_id": 10757,
+      "url": "https://dn710100.ca.archive.org/0/items/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg/Kabhi%20Khushi%20Kabhie%20Gham%20720P%20BDRip%20xRG.mp4",
+      "poster": "https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg"
     }
   ],
+  
   "series": [
     {
       "id": "s1",

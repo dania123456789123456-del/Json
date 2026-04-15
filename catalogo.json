@@ -17,11 +17,32 @@
           "season_number": 1,
           "name": "Temporada 1",
           "episodes": [
-            {
-              "episode_number": 1,
-              "title": "Episodio 01",
-              "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0"
-            }
+            { "episode_number": 1, "title": "Episodio 01", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 2, "title": "Episodio 02", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 3, "title": "Episodio 03", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 4, "title": "Episodio 04", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 5, "title": "Episodio 05", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 6, "title": "Episodio 06", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 7, "title": "Episodio 07", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 8, "title": "Episodio 08", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 9, "title": "Episodio 09", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 10, "title": "Episodio 10", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Temporada 2",
+          "episodes": [
+            { "episode_number": 1, "title": "Episodio 01", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 2, "title": "Episodio 02", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 3, "title": "Episodio 03", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 4, "title": "Episodio 04", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 5, "title": "Episodio 05", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 6, "title": "Episodio 06", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 7, "title": "Episodio 07", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 8, "title": "Episodio 08", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 9, "title": "Episodio 09", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
+            { "episode_number": 10, "title": "Episodio 10", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" }
           ]
         }
       ]

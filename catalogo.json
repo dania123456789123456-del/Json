@@ -1,100 +1,27 @@
 {
-  "peliculas": [
+  "movies": [
     {
-      "titulo": "Who Am I Ningún sistema es seguro",
-      "logo": "https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg",
-      "url": "https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0"
-    },
-    {
-      "titulo": "El gato con botas",
-      "logo": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",
-      "url": "https://rumble.com/hls-vod/75g9x6/playlist.m3u8?u=0&b=0"
-    },
-    {
-      "titulo": "Gregorio",
-      "logo": "https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg",
-      "url": "https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0"
-    },
-    {
-      "titulo": "Spirit El corcel indomable",
-      "logo": "https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg",
-      "url": "https://rumble.com/hls-vod/75g948/playlist.m3u8?u=0&b=0"
-    },
-    {
-      "titulo": "Terrifier",
-      "logo": "https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
-      "url": "https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0"
-    },
-    {
-      "titulo": "Avatar",
-      "logo": "https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
-      "url": "https://rumble.com/hls-vod/73ddjg/playlist.m3u8?u=0&b=0"
+      "id": "m1",
+      "title": "Who Am I Ningún sistema es seguro",
+      "tmdb_id": 0,
+      "url": "https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0",
+      "poster": "https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg"
     }
   ],
   "series": [
     {
-      "titulo": "LAS HERMANAS",
-      "temporadas": [
+      "id": "s1",
+      "title": "LAS HERMANAS",
+      "tmdb_id": 0,
+      "seasons": [
         {
-          "temporada": 1,
-          "episodios": [
+          "season_number": 1,
+          "name": "Temporada 1",
+          "episodes": [
             {
-              "titulo": "Episodio 01",
+              "episode_number": 1,
+              "title": "Episodio 01",
               "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0"
-            },
-            {
-              "titulo": "Episodio 02",
-              "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titulo": "DEJÉMONOS DE VARGAS",
-      "temporadas": [
-        {
-          "temporada": 1,
-          "episodios": [
-            {
-              "titulo": "Episodio 01",
-              "url": "https://rumble.com/hls-vod/75ilcc/playlist.m3u8?u=0&b=0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titulo": "YO SOY BETTY, LA FEA",
-      "temporadas": [
-        {
-          "temporada": 1,
-          "episodios": [
-            {
-              "titulo": "Episodio 001 - La fea más bella",
-              "url": "https://rumble.com/hls-vod/75uz44/playlist.m3u8?u=0&b=0"
-            },
-            {
-              "titulo": "Episodio 002 - El primer día de Betty en Ecomoda",
-              "url": "https://rumble.com/hls-vod/75vy7k/playlist.m3u8?u=0&b=0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titulo": "ATAQUE A LOS TITANES",
-      "temporadas": [
-        {
-          "temporada": 1,
-          "episodios": [
-            {
-              "titulo": "Episodio 01",
-              "url": "https://rumble.com/hls-vod/7449nw/playlist.m3u8?u=0&b=0"
-            },
-            {
-              "titulo": "Episodio 02",
-              "url": "https://rumble.com/hls-vod/74e1nm/playlist.m3u8?u=0&b=0"
             }
           ]
         }

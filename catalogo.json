@@ -17,7 +17,7 @@
       "title": "El gato con botas",
       "tmdb_id": 417859,
       "trailer": "",
-      "url": "https://drive.google.com/file/d/1yhn_G0T9hxEog4EVF7Q3YbLc9IyPsNPW/view",
+      "url": "https://drive.google.com/file/d/1yhn_G0T9hxEog4EVF7Q3YbLc9IyPsNPW/preview",
       "poster": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",
       "qualities": [],
       "audio": [],
@@ -132,7 +132,7 @@
             {
               "episode_number": 1,
               "title": "Episodio 01",
-              "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0",
+              "url": "https://drive.google.com/file/d/1yhn_G0T9hxEog4EVF7Q3YbLc9IyPsNPW/preview",
               "qualities": [],
               "audio": [],
               "subtitles": []

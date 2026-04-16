@@ -1,74 +1,114 @@
 {
+  "config": { "app_name": "MiCine" },
   "movies": [
     {
       "id": "m1",
       "title": "Who Am I Ningún sistema es seguro",
       "tmdb_id": 284427,
+      "trailer": "",
       "url": "https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m2",
       "title": "El gato con botas",
       "tmdb_id": 417859,
+      "trailer": "",
       "url": "https://rumble.com/hls-vod/75g9x6/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m3",
       "title": "Gregorio",
       "tmdb_id": 288594,
+      "trailer": "",
       "url": "https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m4",
       "title": "Spirit El corcel indomable",
       "tmdb_id": 9023,
+      "trailer": "",
       "url": "https://rumble.com/hls-vod/75g948/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m5",
       "title": "Terrifier",
       "tmdb_id": 86328,
+      "trailer": "",
       "url": "https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m6",
       "title": "Avatar",
       "tmdb_id": 19995,
+      "trailer": "",
       "url": "https://rumble.com/hls-vod/73ddjg/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m7",
       "title": "Avatar El sentido del agua",
       "tmdb_id": 76600,
+      "trailer": "",
       "url": "https://drive.google.com/file/d/1o3XlOKxPYPRRNteQfGJikm3nTjPwjxmL/preview",
-      "poster": "https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m8",
       "title": "Avatar Fuego y ceniza",
       "tmdb_id": 83533,
+      "trailer": "https://ia600909.us.archive.org/1/items/avatar-3-fuego-y-cenizas-trailer-2-espanol-latino-2025-1080-p-hd/AVATAR%203_%20Fuego%20y%20Cenizas%20Tr%C3%A1iler%202%20Espa%C3%B1ol%20Latino%20%282025%29%281080P_HD%29.mp4",
       "url": "https://ia600103.us.archive.org/18/items/video-prueba-2/video%20Prueba%202.mp4",
-      "poster": "https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m9",
       "title": "Sputnik",
       "tmdb_id": 594718,
+      "trailer": "",
       "url": "https://ia802803.us.archive.org/27/items/sputnik-1080p-dual-7.99-gb/alienigena.mp4",
-      "poster": "https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg"
+      "poster": "https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg",
+      "qualities": [],
+      "audio": [],
+      "subtitles": []
     },
     {
       "id": "m10",
       "title": "Kabhi Khushi Kabhie Gham",
       "tmdb_id": 10757,
+      "trailer": "",
       "url": "https://ia601602.us.archive.org/10/items/video-prueba-1111/video%20Prueba%201111.mp4",
       "poster": "https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg",
+      "qualities": [],
+      "audio": [],
       "subtitles": [
         {
           "label": "Español",
@@ -83,37 +123,20 @@
       "id": "s1",
       "title": "LAS HERMANAS",
       "tmdb_id": 134675,
+      "trailer": "",
       "seasons": [
         {
           "season_number": 1,
           "name": "Temporada 1",
           "episodes": [
-            { "episode_number": 1, "title": "Episodio 01", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 2, "title": "Episodio 02", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 3, "title": "Episodio 03", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 4, "title": "Episodio 04", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 5, "title": "Episodio 05", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 6, "title": "Episodio 06", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 7, "title": "Episodio 07", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 8, "title": "Episodio 08", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 9, "title": "Episodio 09", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 10, "title": "Episodio 10", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" }
-          ]
-        },
-        {
-          "season_number": 2,
-          "name": "Temporada 2",
-          "episodes": [
-            { "episode_number": 1, "title": "Episodio 01", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 2, "title": "Episodio 02", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 3, "title": "Episodio 03", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 4, "title": "Episodio 04", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 5, "title": "Episodio 05", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 6, "title": "Episodio 06", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 7, "title": "Episodio 07", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 8, "title": "Episodio 08", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 9, "title": "Episodio 09", "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0" },
-            { "episode_number": 10, "title": "Episodio 10", "url": "https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0" }
+            {
+              "episode_number": 1,
+              "title": "Episodio 01",
+              "url": "https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            }
           ]
         }
       ]

@@ -28,10 +28,15 @@
       "title": "Gregorio",
       "tmdb_id": 288594,
       "trailer": "",
-      "url": "https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0",
+      "url": "https://s666vla.storage.yandex.net/rdisk/fce815693b17867b9cc8ada3f41c0201ecf7c023e19091548a408e3912293fd8/69e29c01/9E8LvVRYrvJ9Ypy7DCbq8kI9II4nsf-T11PgFiojSovgDSfcyWILQ4JsnBXgUWKDv33ZUyEqPhCdTz7npozgsA==?uid=0&filename=Ace%20Ventura%20un%20detective%20diferente%20%281994%29%201080p%20DUAL%20id_3049.mkv&disposition=attachment&hash=vPr1zk7OQvwZUOLW3YZSR4WOZBSAZIq1ooyN6AiopRwq42jGa8gmg7DprI3zustqq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=1949390949&fsize=5793283542&hid=3dfb178a58fa39a48fc07afa2d3e8fd0&media_type=video&tknv=v3&ts=64fae08ee4240&s=7601af332261ccccf5fadf4ced807f467d77f753687857bcb7257f2dfcdbf465&pb=U2FsdGVkX18Lp0g6-poY_5uPIgE8BvsvbK1snmrtteixE2KN2ypfh2Z6tB-ZNmTFlFJbd1pWy-jqwPHN2ezysoEa8Kqc1hRA-GHF9Xols-0",
       "poster": "https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg",
       "qualities": [],
-      "audio": [],
+      "audio": [
+        {
+    "label": "Latino",
+    "url": "https://archive.org/download/aceventu-1_202604/aceventu%201.aac"
+  }
+      ],
       "subtitles": []
     },
     {

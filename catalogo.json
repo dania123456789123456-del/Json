@@ -1,150 +1,23 @@
 {
-  "config": { "app_name": "MiCine" },
+  "config": {
+    "app_name": "MiCine",
+    "user": "admin",
+    "password": "1234"
+  },
   "movies": [
     {
       "id": "m1",
-      "title": "Who Am I Ningún sistema es seguro",
-      "tmdb_id": 284427,
-      "trailer": "",
-      "url": "https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg",
+      "title": "Drácula",
+      "tmdb_id": 1246049,
+      "year": 2025,
+      "poster": "",
+      "backdrop": "",
+      "description": "",
+      "url": "https://s75vla.storage.yandex.net/rdisk/c5437da4a1d6e2df38c93f40d9bc42d4aaed40024705e66bb351aa7916dcf9ef/69e3349d/Umj8mA-6ZMsEM_oUGHonr8BBsmqGYKT_Qw_Sxjpn9yJe8fWRi57nBIQwZYwPY6qaCYkoLhENV7DA82CN_qI6XA==?uid=0&filename=Dracula%20A%20Love%20Tale%20%282025%29%20TRIAL%201080p%20id_1246049.mkv&disposition=attachment&hash=3qo4iGKUkH9A3s3sRsHoi8gasi3jzCeKDILbbuEBQ4dn20GVgGEGMD00c1owe5RIq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=2346553558&fsize=6210182551&hid=7743a2a026a4b99613375102282659d2&media_type=video&tknv=v3&ts=64fb72190a140&s=db7fc52e666b5eb0062e488aac06715454acca8b5b8c21f9fd7d17df0da6a4b9&pb=U2FsdGVkX1_Q-zK_i4sHhgIavF3UkdtREsSwJr28J4zD6lbK0HmPtiNLQlNjt7vyQgCEaoxS04gv5fKQgaeGtg9n9_6KKlTLzLUwUoJJBK0",
       "qualities": [],
       "audio": [],
       "subtitles": []
-    },
-    {
-      "id": "m2",
-      "title": "El gato con botas",
-      "tmdb_id": 417859,
-      "trailer": "",
-      "url": "https://drive.google.com/file/d/1yhn_G0T9hxEog4EVF7Q3YbLc9IyPsNPW/preview",
-      "poster": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": []
-    },
-    {
-      "id": "m3",
-      "title": "Gregorio",
-      "tmdb_id": 288594,
-      "trailer": "",
-      "url": "https://s666vla.storage.yandex.net/rdisk/8e6ac42abdacaeea62ea3d530b6d4e40123307b96c664bb5bf51cb60ab4ff981/69e2e6fc/9E8LvVRYrvJ9Ypy7DCbq8kI9II4nsf-T11PgFiojSovgDSfcyWILQ4JsnBXgUWKDv33ZUyEqPhCdTz7npozgsA==?uid=0&filename=Ace%20Ventura%20un%20detective%20diferente%20%281994%29%201080p%20DUAL%20id_3049.mkv&disposition=attachment&hash=vPr1zk7OQvwZUOLW3YZSR4WOZBSAZIq1ooyN6AiopRwq42jGa8gmg7DprI3zustqq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=1949390949&fsize=5793283542&hid=3dfb178a58fa39a48fc07afa2d3e8fd0&media_type=video&tknv=v3&ts=64fb2810ab700&s=a15181b497d89bc9b304e05b43845f3d0bf04fc71411553d51af80cfbe6b2879&pb=U2FsdGVkX1_lj8dcqZvIJLivxRFXmYLgDDolKkZ2l0QbTWV84yeSBq5VC5LpDeddnyjbe4e0wk5KwdHxFjwVauI4pZEcwMoyILrWhYR1YZk",
-      "poster": "https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg",
-      "qualities": [],
-      "audio": [
-        {
-    "label": "Latino",
-    "url": "https://archive.org/download/aceventu-1_202604/aceventu%201.aac"
-  }
-      ],
-      "subtitles": []
-    },
-    {
-      "id": "m4",
-      "title": "Spirit El corcel indomable",
-      "tmdb_id": 9023,
-      "trailer": "",
-      "url": "https://s11klg.storage.yandex.net/rdisk/1e8d182ac070306c220868484d249238e670689c21cd1e984e08eb9b5311dc10/69e28048/mctTNhSJx2eFqVdDcMQW7SsadFf-y4zjFvLhKXpHp-bXwDndAymBP5g-N6TrwyANmSFEAOuH6tLv8oJgRq2FHA==?uid=0&filename=Hogar%20Dulce%20Hogar%20Renacimiento%201080p%20DUAL%20id_1353117.mkv&disposition=attachment&hash=5wLKYQILf8fC6KIwlDFKbjYFwXLK%2BFrAnGPRzrenZKKKPGh0CezhGp/DL/rfV4n7q/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=2346553558&fsize=5110775430&hid=766bac154577634a84e5e1b104e32252&media_type=video&tknv=v3&ts=64fac61eaa200&s=aa63600fbfc6301cd98bbdb81874a1dfdd1b34d4c2b20df0ae0f5a4c425b3f17&pb=U2FsdGVkX1-KRZCp1RgbYiB40BLL8FW4VzOIx-sRrjzW5-yAYC-aErTHuiygkglmYQDRzR6TBu0uCzHZ38-1XYrj0XSsWthU4cqyvKbu34o",
-      "poster": "https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": []
-    },
-    {
-      "id": "m5",
-      "title": "Terrifier",
-      "tmdb_id": 86328,
-      "trailer": "",
-      "url": "https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": []
-    },
-    {
-      "id": "m6",
-      "title": "Avatar",
-      "tmdb_id": 19995,
-      "trailer": "",
-      "url": "https://rumble.com/hls-vod/73ddjg/playlist.m3u8?u=0&b=0",
-      "poster": "https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": []
-    },
-    {
-      "id": "m7",
-      "title": "Avatar El sentido del agua",
-      "tmdb_id": 76600,
-      "trailer": "",
-      "url": "https://drive.google.com/file/d/1o3XlOKxPYPRRNteQfGJikm3nTjPwjxmL/preview",
-      "poster": "https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": []
-    },
-    {
-      "id": "m8",
-      "title": "Avatar Fuego y ceniza",
-      "tmdb_id": 83533,
-      "trailer": "https://ia600909.us.archive.org/1/items/avatar-3-fuego-y-cenizas-trailer-2-espanol-latino-2025-1080-p-hd/AVATAR%203_%20Fuego%20y%20Cenizas%20Tr%C3%A1iler%202%20Espa%C3%B1ol%20Latino%20%282025%29%281080P_HD%29.mp4",
-      "url": "https://ia600103.us.archive.org/18/items/video-prueba-2/video%20Prueba%202.mp4",
-      "poster": "https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": []
-    },
-    {
-      "id": "m9",
-      "title": "Sputnik",
-      "tmdb_id": 594718,
-      "trailer": "",
-      "url": "https://ia802803.us.archive.org/27/items/sputnik-1080p-dual-7.99-gb/alienigena.mp4",
-      "poster": "https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": []
-    },
-    {
-      "id": "m10",
-      "title": "Kabhi Khushi Kabhie Gham",
-      "tmdb_id": 10757,
-      "trailer": "",
-      "url": "https://ia601602.us.archive.org/10/items/video-prueba-1111/video%20Prueba%201111.mp4",
-      "poster": "https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg",
-      "qualities": [],
-      "audio": [],
-      "subtitles": [
-        {
-          "label": "Español",
-          "lang": "es",
-          "url": "https://raw.githubusercontent.com/dania123456789123456-del/Sub/refs/heads/main/sub.srt"
-        }
-      ]
     }
   ],
-  "series": [
-    {
-      "id": "s1",
-      "title": "LAS HERMANAS",
-      "tmdb_id": 134675,
-      "trailer": "",
-      "seasons": [
-        {
-          "season_number": 1,
-          "name": "Temporada 1",
-          "episodes": [
-            {
-              "episode_number": 1,
-              "title": "Episodio 01",
-              "url": "https://drive.google.com/file/d/1yhn_G0T9hxEog4EVF7Q3YbLc9IyPsNPW/preview",
-              "qualities": [],
-              "audio": [],
-              "subtitles": []
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "series": []
 }

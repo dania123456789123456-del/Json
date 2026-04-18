@@ -13,7 +13,7 @@
       "poster": "",
       "backdrop": "",
       "description": "",
-      "url": "https://s75vla.storage.yandex.net/rdisk/c5437da4a1d6e2df38c93f40d9bc42d4aaed40024705e66bb351aa7916dcf9ef/69e3349d/Umj8mA-6ZMsEM_oUGHonr8BBsmqGYKT_Qw_Sxjpn9yJe8fWRi57nBIQwZYwPY6qaCYkoLhENV7DA82CN_qI6XA==?uid=0&filename=Dracula%20A%20Love%20Tale%20%282025%29%20TRIAL%201080p%20id_1246049.mkv&disposition=attachment&hash=3qo4iGKUkH9A3s3sRsHoi8gasi3jzCeKDILbbuEBQ4dn20GVgGEGMD00c1owe5RIq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=2346553558&fsize=6210182551&hid=7743a2a026a4b99613375102282659d2&media_type=video&tknv=v3&ts=64fb72190a140&s=db7fc52e666b5eb0062e488aac06715454acca8b5b8c21f9fd7d17df0da6a4b9&pb=U2FsdGVkX1_Q-zK_i4sHhgIavF3UkdtREsSwJr28J4zD6lbK0HmPtiNLQlNjt7vyQgCEaoxS04gv5fKQgaeGtg9n9_6KKlTLzLUwUoJJBK0",
+      "url": "Bwjdjdjfjf",
       "qualities": [],
       "audio": [],
       "subtitles": []
@@ -32,5 +32,178 @@
       "subtitles": []
     }
   ],
-  "series": []
+  "series": [
+    {
+      "id": "s1",
+      "title": "Dragon Ball Z",
+      "tmdb_id": 12971,
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Un misterioso guerrero",
+              "thumbnail": "",
+              "description": "",
+              "url": "Kskdjfkf",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 2,
+              "title": "El pasado de Goku",
+              "thumbnail": "",
+              "description": "",
+              "url": "Nsndndnnff",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 3,
+              "title": "La unión de los dos adversarios",
+              "thumbnail": "",
+              "description": "",
+              "url": "Bsbdbdbf",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 4,
+              "title": "El plan de Piccolo",
+              "thumbnail": "",
+              "description": "",
+              "url": "Nsndndnf",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 5,
+              "title": "El sacrificio de Goku",
+              "thumbnail": "",
+              "description": "",
+              "url": "Nsndndndn",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 6,
+              "title": "Por una victoria definitiva",
+              "thumbnail": "",
+              "description": "",
+              "url": "Jsbdjdjd",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Temporada 2",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Destino: Namek",
+              "thumbnail": "",
+              "description": "",
+              "url": "Ksndndjf",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 2,
+              "title": "Unos amigos muy amables",
+              "thumbnail": "",
+              "description": "",
+              "url": "Jdjdjdjd",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 3,
+              "title": "El enemigo se despierta",
+              "thumbnail": "",
+              "description": "",
+              "url": "Ndndnfnf",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Ataque a los Titanes",
+      "tmdb_id": 1429,
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "A ti, dentro de 2000 años. La caída de Shiganshina (Parte 1)",
+              "thumbnail": "",
+              "description": "",
+              "url": "Ksndndjf",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 2,
+              "title": "Aquel día. La caída de Shiganshina (Parte 2)",
+              "thumbnail": "",
+              "description": "",
+              "url": "Nsnzndnnd",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 3,
+              "title": "Una tenue luz en la desesperación. La restauración de la humanidad (Parte 1)",
+              "thumbnail": "",
+              "description": "",
+              "url": "Ndndnfn",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 4,
+              "title": "La noche de la desbandada. La restauración de la humanidad (Parte 2)",
+              "thumbnail": "",
+              "description": "",
+              "url": "Nsndnf",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 5,
+              "title": "La primera batalla. La defensa de Trost (Parte 1)",
+              "thumbnail": "",
+              "description": "",
+              "url": "Nsndnd",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

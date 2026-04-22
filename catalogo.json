@@ -391,8 +391,26 @@
               "qualities": [],
               "audio": [],
               "subtitles": []
-            }
-          ]
+            },
+            {
+  "id": "s1",
+  "title": "Dark",
+  "tmdb_id": 70523,
+  "trailer": "",
+  "seasons": [
+    {
+      "season_number": 1,
+      "name": "Temporada 1",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "Secretos",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://Mis-Series.b-cdn.net/Dark%20S01E01.mkv",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
         }
       ]
     }

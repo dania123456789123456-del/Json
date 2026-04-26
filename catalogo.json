@@ -486,8 +486,11 @@
               "qualities": [],
               "audio": [],
               "subtitles": []
+            } 
+            ] 
             },
             {
+              "season_number": 2,
               "episode_number": 27,
               "title": "¡Qué vienen los extraterrestres!",
               "thumbnail": "",
@@ -1639,7 +1642,7 @@
   "id": "s3",
   "title": "Yo soy Betty, la fea",
   "tmdb_id": 16286,
-  "trailer": "https://vz-cf328c54-e31.b-cdn.net/4c556216-055b-4556-a35e-5026fc689eba/playlist.m3u8",
+  "trailer": "https://vz-cf328c54-e31.b-cdn.net/70f0a708-715a-4aed-8299-88abadb653a1/playlist.m3u8",
   "seasons": [
     {
       "season_number": 1,

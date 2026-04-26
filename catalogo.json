@@ -902,7 +902,13 @@
               "qualities": [],
               "audio": [],
               "subtitles": []
+            } 
+            ] 
             },
+            {
+          "season_number": 1,
+          "name": "Temporada 3",
+          "episodes": [
             {
               "episode_number": 68,
               "title": "La reunión de la selección japonesa",

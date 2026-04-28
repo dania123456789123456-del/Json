@@ -298,6 +298,20 @@
   "qualities": [],
   "audio": [],
   "subtitles": []
+}, 
+{
+  "id": "m22",
+  "title": "Michael",
+  "tmdb_id": 936075,
+  "year": 2026,
+  "poster": "",
+  "backdrop": "",
+  "description": "",
+  "trailer": "https://vz-cf328c54-e31.b-cdn.net/380b152d-54b3-4a50-99a2-663f933af2a6/playlist.m3u8",
+  "url": "https://vz-cf328c54-e31.b-cdn.net/c8e65991-f11a-4db5-b5c8-2a7d1ed7e9d7/playlist.m3u8",
+  "qualities": [],
+  "audio": [],
+  "subtitles": []
 }
   ],
   "series": [

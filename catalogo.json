@@ -1886,10 +1886,6 @@
           "qualities": [],
           "audio": [],
           "subtitles": []
-        } 
-      ]
-    } 
-  ] 
         },
         {
           "episode_number": 5,
@@ -1900,6 +1896,10 @@
           "qualities": [],
           "audio": [],
           "subtitles": []
+        } 
+  ] 
+} 
+] 
         },
         {
       "id": "s5",

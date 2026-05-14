@@ -1896,7 +1896,45 @@
           "qualities": [],
           "audio": [],
           "subtitles": []
-        }
+        },
+        {
+  "config": {
+    "app_name": "MiCine",
+    "user": "admin",
+    "password": "1234"
+  },
+  "movies": [],
+  "series": [
+    {
+      "id": "s5",
+      "title": "Parque Prehistórico",
+      "tmdb_id": 788,
+      "trailer": "",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Episodio 1",
+              "thumbnail": "",
+              "description": "",
+              "url": "https://vz-4b62a185-bce.b-cdn.net/7b418eb9-9c29-4121-a236-91ea0ce27996/playlist.m3u8",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            },
+            {
+              "episode_number": 2,
+              "title": "Episodio 2",
+              "thumbnail": "",
+              "description": "",
+              "url": "https://vz-4b62a185-bce.b-cdn.net/89868143-c909-414e-816a-d320fd6767c9/playlist.m3u8",
+              "qualities": [],
+              "audio": [],
+              "subtitles": []
+            }
       ]
     }
   ] 

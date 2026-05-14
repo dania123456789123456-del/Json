@@ -1898,14 +1898,6 @@
           "subtitles": []
         },
         {
-  "config": {
-    "app_name": "MiCine",
-    "user": "admin",
-    "password": "1234"
-  },
-  "movies": [],
-  "series": [
-    {
       "id": "s5",
       "title": "Parque Prehistórico",
       "tmdb_id": 788,

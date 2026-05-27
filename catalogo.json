@@ -321,8 +321,8 @@
   "poster": "",
   "backdrop": "",
   "description": "",
-  "trailer": "",
-  "url": "https://vz-4b62a185-bce.b-cdn.net/6253bc92-f8bd-4a67-b3d2-cdf6a1d1d05d/playlist.m3u8",
+  "trailer": "https://vz-e58f78c9-36e.b-cdn.net/4d85dc3d-635c-4901-b945-4c63e38bf747/playlist.m3u8",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/49ade5b4-c467-4419-8692-91d31e4fcc0e/playlist.m3u8",
   "qualities": [],
   "audio": [],
   "subtitles": []
@@ -368,7 +368,35 @@
   "qualities": [],
   "audio": [],
   "subtitles": []
-}
+}, 
+{
+  "id": "m27",
+  "title": "Dragon Ball Z: ¡Arde! Una ardiente, intensa y super feroz batalla",
+  "tmdb_id": 34433,
+  "year": 1993,
+  "poster": "",
+  "backdrop": "",
+  "description": "",
+  "trailer": "",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/f1e74757-e80a-46b0-9e86-d71ef47c20cb/playlist.m3u8",
+  "qualities": [],
+  "audio": [],
+  "subtitles": []
+},
+{
+  "id": "m28",
+  "title": "Dragon Ball Z꞉ ¡El dúo peligroso! Los súper guerreros nunca duermen",
+  "tmdb_id": 44251,
+  "year": 1994,
+  "poster": "",
+  "backdrop": "",
+  "description": "",
+  "trailer": "",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/c3ed3696-c7cb-4f83-accc-a9f31ee68f45/playlist.m3u8",
+  "qualities": [],
+  "audio": [],
+  "subtitles": []
+}    
 ],
   "series": [
     {

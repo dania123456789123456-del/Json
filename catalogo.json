@@ -1987,7 +1987,121 @@
               "qualities": [],
               "audio": [],
               "subtitles": []
-            }
+            } 
+          ] 
+        } 
+      ] 
+            },
+            {
+  "id": "s6",
+  "title": "Pokémon (Pokemon)",
+  "tmdb_id": 60572,
+  "trailer": "https://vz-e58f78c9-36e.b-cdn.net/db052e7a-7409-4524-8821-dabdd222e2c4/playlist.m3u8",
+  "seasons": [
+    {
+      "season_number": 1,
+      "name": "Temporada 1",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "¡Pokémon, te elijo a ti!",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/6dcfe1e2-af76-41f7-a2ca-bcb447b2d99b/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 2,
+          "title": "Emergencia Pokémon",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/d0bfeb23-c8d7-4d03-aaf3-dafc2f969d0f/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 3,
+          "title": "Ash atrapa un Pokémon",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/34cf95bc-aa89-4437-a94f-823726be5da3/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 4,
+          "title": "El reto del samurái",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/9c32b2df-0af3-4065-a931-8ae09debf951/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 5,
+          "title": "Combate en Ciudad Plateada",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/fe4bc24e-3977-4eba-b242-2a277c549aad/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 6,
+          "title": "Clefairy y la Piedra Lunar",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/abc47fd6-f8ed-4cb9-b876-cdbea83e2e4e/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 7,
+          "title": "Las flores acuáticas de Ciudad Celeste",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/1943e5cb-ef3c-4c11-a751-a25f673f6599/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 8,
+          "title": "El camino hacia la Liga Pokémon",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/28ee6595-4340-4c5c-9d01-84360ae59e2f/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 9,
+          "title": "La escuela de los golpes duros",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/bc74bb8b-c0e1-4e9a-911f-ca7da3dd69f6/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 10,
+          "title": "Bulbasur y la aldea oculta",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/27dacd22-fde3-4cbe-b96b-c0f0b583afea/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        }
       ]
     }
   ] 

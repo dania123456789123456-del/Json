@@ -2119,9 +2119,54 @@
       ]
     }
   ] 
-} 
+ },
+    {
+  "id": "s7",
+  "title": "Dejémonos de Vargas",
+  "tmdb_id": 206164,
+  "trailer": "",
+  "seasons": [
+    {
+      "season_number": 1,
+      "name": "Temporada 1",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "Episodio 1",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/b2bf1f1d-f5a0-49ca-b8f0-94ccb8ef5224/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 2,
+          "title": "Episodio 2",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/b5816452-c59a-43c7-835d-9c00d183b2ae/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        },
+        {
+          "episode_number": 3,
+          "title": "Agustín Julio adopta a un gallo como mascota",
+          "thumbnail": "",
+          "description": "",
+          "url": "https://vz-fec87ae5-d22.b-cdn.net/804d2e93-222d-43b1-97d2-882cd3e73cb7/playlist.m3u8",
+          "qualities": [],
+          "audio": [],
+          "subtitles": []
+        } 
+      ] 
+    } 
+  ] 
+    } 
   ] 
 } 
+    
 
 
 

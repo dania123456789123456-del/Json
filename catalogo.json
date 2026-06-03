@@ -410,7 +410,35 @@
   "qualities": [],
   "audio": [],
   "subtitles": []
-}    
+}, 
+{
+  "id": "30",
+  "title": "Chavín de Huántar, el rescate del siglo",
+  "tmdb_id": 1365302,
+  "year": 2025,
+  "poster": "",
+  "backdrop": "",
+  "description": "",
+  "trailer": "https://vz-e58f78c9-36e.b-cdn.net/9ff18648-6df5-47aa-b22f-31c7a5698260/playlist.m3u8",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/2753da30-c777-46bc-a66d-5a6bd5dade9a/playlist.m3u8",
+  "qualities": [],
+  "audio": [],
+  "subtitles": []
+},
+{
+  "id": "31",
+  "title": "F1 la película",
+  "tmdb_id": 911430,
+  "year": 2025,
+  "poster": "",
+  "backdrop": "",
+  "description": "",
+  "trailer": "https://vz-e58f78c9-36e.b-cdn.net/edd39c8b-25f3-454d-998c-7342cf3b145e/playlist.m3u8",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/84f71fa0-d045-4363-bc46-c4c3fe4c988a/playlist.m3u8",
+  "qualities": [],
+  "audio": [],
+  "subtitles": []
+}
 ],
   "series": [
     {

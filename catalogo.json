@@ -308,7 +308,7 @@
   "backdrop": "",
   "description": "",
   "trailer": "https://vz-cf328c54-e31.b-cdn.net/380b152d-54b3-4a50-99a2-663f933af2a6/playlist.m3u8",
-  "url": "https://vz-4b62a185-bce.b-cdn.net/6635bcf1-f65a-4555-9b38-8dafdd542419/playlist.m3u8",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/6ef46519-be8c-4212-8a85-a9e18b4968e0/playlist.m3u8",
   "qualities": [],
   "audio": [],
   "subtitles": []
@@ -412,7 +412,7 @@
   "subtitles": []
 }, 
 {
-  "id": "30",
+  "id": "m30",
   "title": "Chavín de Huántar, el rescate del siglo",
   "tmdb_id": 1365302,
   "year": 2025,
@@ -426,7 +426,7 @@
   "subtitles": []
 },
 {
-  "id": "31",
+  "id": "m31",
   "title": "F1 la película",
   "tmdb_id": 911430,
   "year": 2025,
@@ -435,6 +435,34 @@
   "description": "",
   "trailer": "https://vz-e58f78c9-36e.b-cdn.net/edd39c8b-25f3-454d-998c-7342cf3b145e/playlist.m3u8",
   "url": "https://vz-ce09cb41-49b.b-cdn.net/84f71fa0-d045-4363-bc46-c4c3fe4c988a/playlist.m3u8",
+  "qualities": [],
+  "audio": [],
+  "subtitles": []
+},
+{
+  "id": "m32",
+  "title": "Moonwalker",
+  "tmdb_id": 13192,
+  "year": 1988,
+  "poster": "",
+  "backdrop": "",
+  "description": "",
+  "trailer": "",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/10869095-776c-42b1-9f74-43dafe81b2c8/playlist.m3u8",
+  "qualities": [],
+  "audio": [],
+  "subtitles": []
+},
+{
+  "id": "m33",
+  "title": "Warcraft: El origen",
+  "tmdb_id": 68735,
+  "year": 2016,
+  "poster": "",
+  "backdrop": "",
+  "description": "",
+  "trailer": "",
+  "url": "https://vz-ce09cb41-49b.b-cdn.net/9bd39a55-1d96-4b5a-8faf-3179c62237fd/playlist.m3u8",
   "qualities": [],
   "audio": [],
   "subtitles": []
